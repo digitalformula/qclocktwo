@@ -6,7 +6,7 @@ This repo only exists to provide an updated version of the `.conkyrc` file that 
 
 ## Usage
 
-I'm on Pop OS (Ubuntu variant), so here's how to use this file there.
+I'm on Pop OS (Ubuntu variant) with the K Desktop Environment (KDE), although these instructions *should* work on any Ubuntu variant.
 
 - Install Conky:
 
