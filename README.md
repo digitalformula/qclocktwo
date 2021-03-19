@@ -1,8 +1,8 @@
 # QClockTwo for Conky
 
-No credit to me for creating this.  Original artwork created by [mowgli-writes on DeviantArt](https://www.deviantart.com/mowgli-writes/art/qlocktwo-conky-470067388).
+No credit to me for creating the original artwork or Conky theme.  Original artwork created by [mowgli-writes on DeviantArt](https://www.deviantart.com/mowgli-writes/art/qlocktwo-conky-470067388).
 
-This repo only exists to provide an updated version of the `.conkyrc` file that doesn't throw errors on later versions of Conky.
+I just created an updated version of `.conkyrc` that doesn't throw errors on later versions of Conky.
 
 ## Usage
 
