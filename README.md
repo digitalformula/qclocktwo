@@ -30,3 +30,5 @@ I'm on Pop OS (Ubuntu variant), so here's how to use this file there.
   - gap_y
 
 - Conky should detect changes in `~/.conkyrc` and reload when the file is saved
+
+![Screenshot](./screenshot.png)
